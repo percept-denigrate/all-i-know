@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "4584d709d5ec4ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "83073008bfcc4d15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa4e3528ad462559",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2351a8331d8fa00e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c6b8a599f69c92e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9009947b5b742ebe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "50d503a408edb982",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35c2bd0ca01dccea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5
+  },
+  "right": {
+    "id": "3fe5a21f79ddc8a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1367e32aeb9b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14bae19479608300",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OOP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OOP"
+            }
+          },
+          {
+            "id": "c2aca167743eee5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OOP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from OOP"
+            }
+          },
+          {
+            "id": "06516de1bf086f61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "93c4e90600e427bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OOP.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of OOP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aa4e3528ad462559",
+  "lastOpenFiles": [
+    "Evolution.md",
+    "Prototaxites.md",
+    "Genetic drift.md",
+    "Heritability.md",
+    "Variation.md",
+    "Assortative mating.md",
+    "Same-Origin Policy.md",
+    "TLS.md",
+    "OSI model.md",
+    "selection.png",
+    "Price equation.md",
+    "General intelligence.md",
+    "Flynn effect.md",
+    "DNS.md",
+    "sfs.png",
+    "variation.png",
+    "arg.png",
+    "positive_manifold.png",
+    "population.png",
+    "ibd.png",
+    "flynn_effect.png",
+    "finite_sampling.png",
+    "dns.png",
+    "Diffie-Hellman.md",
+    "ECDH.md",
+    "Pure states are not enough.md",
+    "2026-02-09.md",
+    "Factor analysis.md",
+    "DNS cache poisonging.md",
+    "Vulnerable world hypothesis.md",
+    "01 - Cyber/Untitled.base",
+    "01 - Cyber",
+    "TLS certificate.md",
+    "making_sense.md",
+    "Wilson effect.md",
+    "Lewontin's separate soils.md",
+    "IQ.md",
+    "2026-02-06.md"
+  ]
+}
