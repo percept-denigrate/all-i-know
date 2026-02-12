@@ -23,8 +23,11 @@ One model is considering all alleles are part the gene pool, and the next genera
 ![[gene_pool.png]]
 
 In that case:
+
 $$f(A) = \frac8{13} = 0.62$$
+
 $$f(a) = \frac5{13} = 0.38$$
+
 We can predict the genotype distribution of the next generation.
 
 HWE assumptions represent the simplest possible case:
@@ -37,9 +40,13 @@ HWE assumptions represent the simplest possible case:
 7. Individuals don't keep contributing to the gene pool in the next generation
 
 Given these assumptions:
+
 $$f(AA) = f(A)f(A) = p^2= 0.38$$
+
 $$f(aa) = f(a)f(a) = q^2= 0.14$$
+
 $$f(Aa) = f(A) f(a) + f(a) f(A)=2pq= 0.47$$
+
 This model gives the same results as calculating offspring genotype frequencies based on parents genotype.
 
 This model shows no change in allele frequencies from generation to the next. Therefore evolution must lie within the violation of one or more of the assumptions.

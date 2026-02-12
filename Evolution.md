@@ -1,4 +1,4 @@
-Biological evolution: *change* of *heritable* characteristics of populations over successive generation.
+Biological evolution: *change* of *heritable* characteristics of populations over successive generations.
 
 > Nothing in evolution makes sense except in light of population genetics.
 > 

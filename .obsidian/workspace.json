@@ -11,10 +11,14 @@
             "id": "578eaf69aee0b118",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Variation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variation"
             }
           }
         ]
@@ -162,35 +166,37 @@
   },
   "active": "578eaf69aee0b118",
   "lastOpenFiles": [
-    "Genetic drift.md",
-    "TLS.md",
-    "Variation.md",
-    "DNS cache poisoning.md",
-    "ARP.md",
-    "Non-random mating.md",
-    "Evolution.md",
-    "General intelligence.md",
+    "Pure states are not enough.md",
     "Price equation.md",
     "OSI model.md",
-    "DHCP.md",
-    "DNS.md",
+    "Non-random mating.md",
+    "Mendelian inheritance.md",
     "Heritability.md",
-    "Pure states are not enough.md",
+    "Genetic drift.md",
+    "General intelligence.md",
+    "Flynn effect.md",
+    "Diffie-Hellman.md",
+    "DNS.md",
+    "DNS cache poisoning.md",
+    "Evolution.md",
+    "DHCP.md",
+    "index.md",
+    "Untitled",
+    "TLS.md",
+    "Variation.md",
+    "ARP.md",
     "Prototaxites.md",
     "random_mating_position.png",
     "random_mating.png",
     "population_structure.png",
     "negative_assortative_mating_equilibrium.png",
-    "Mendelian inheritance.md",
     "gene_pool.png",
     "mendelian_population.png",
     "linkage_disequilibrium.png",
     "segregation_distortion.png",
     "Same-Origin Policy.md",
     "selection.png",
-    "Flynn effect.md",
     "sfs.png",
-    "Diffie-Hellman.md",
     "ECDH.md",
     "2026-02-09.md",
     "Factor analysis.md",
@@ -198,7 +204,6 @@
     "Vulnerable world hypothesis.md",
     "01 - Cyber/Untitled.base",
     "01 - Cyber",
-    "TLS certificate.md",
-    "making_sense.md"
+    "TLS certificate.md"
   ]
 }
