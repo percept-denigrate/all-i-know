@@ -1,4 +1,4 @@
-Genetic drift is the violation of the 5th assumption of HWE: gametes are drawn infinitely and with replacement.
+Genetic drift is the violation of the 5th assumption of HWE in [[Mendelian inheritance]]: gametes are drawn infinitely and with replacement.
 
 # Effects of finite sampling
 

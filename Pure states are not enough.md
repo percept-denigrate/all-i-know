@@ -2,7 +2,7 @@ It's very hard to build hidden variable models that explain quantum mechanics.
 
 A case where pure states and quantum mechanics produce the same results:
 
-Classical phase space for angular momentum: 
+Classical  [[Phase space]] for angular momentum: 
 $$\vec{L} = [L_x, L_y, L_z] = [L \sin \theta \cos \phi, L \sin \theta \sin \phi, L \cos \theta]
 $$
 Quantum state space for spin $\frac12$ (qubit): 

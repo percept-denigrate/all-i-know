@@ -6,7 +6,8 @@ Biological evolution: *change* of *heritable* characteristics of populations ove
 
 Causes are:
 - [[Variation]]
-- [[Assortative mating]]
+- [[Non-random mating]]
+- [[Mutation]]
 - [[Genetic drift]]
 - [[Natural selection]]
-- [[Mutation]]
+- [[Gene flow]]

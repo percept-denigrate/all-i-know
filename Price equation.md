@@ -4,7 +4,7 @@ Given a trait $z$ in a population, the fitness $w$ and the variation between ind
 $$
 \Delta z = \frac{1}{w}cov(w_i,z_i) + \frac{1}{w}E(w_i \delta z_i)
 $$
-The term $\frac{1}{w}cov(z_i,w_i)$ encompasses [[Natural selection]] and [[Genetic drift]], and the term $\frac{1}{w}E(w_i \delta z_i)$ encompasses mutation and recombination.
+The term $\frac{1}{w}cov(z_i,w_i)$ encompasses [[Natural selection]] and [[Genetic drift]], and the term $\frac{1}{w}E(w_i \delta z_i)$ encompasses [[Mutation]] and recombination.
 
 The strength of this equation comes from the fact it is very general and makes very few hypothesis.
 
